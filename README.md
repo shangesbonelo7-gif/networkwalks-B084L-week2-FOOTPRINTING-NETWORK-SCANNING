@@ -72,3 +72,9 @@ Learning Journey: Cybersecurity Fundamentals
 Week: 02
 Focus: Footprinting, Reconnaissance & Network Scanning
 
+<img width="566" height="125" alt="Curl -I screenshot" src="https://github.com/user-attachments/assets/8eb437b7-ea99-4767-b0a6-6b96cfdcfd00" />
+<img width="581" height="343" alt="whosi screenshot" src="https://github.com/user-attachments/assets/e46f9f7c-9986-46aa-9d17-c5af361b230d" />
+<img width="569" height="151" alt="whatweb screenshot" src="https://github.com/user-attachments/assets/92e6bccb-dab3-4e51-895e-34a5d5c8f448" />
+<img width="325" height="167" alt="wafw00f Screenshot " src="https://github.com/user-attachments/assets/9bc94191-dd86-4813-b865-dfd7b72fdcab" />
+<img width="170" height="77" alt="nslookup screenshot" src="https://github.com/user-attachments/assets/70c9a5e1-5b1c-44ca-a4ce-f598dab369d5" />
+<img width="538" height="210" alt="dnsrecon -d Screenshot " src="https://github.com/user-attachments/assets/7d0e11bf-fa8a-4d62-ad93-84a4811f5f66" />
